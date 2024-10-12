@@ -1,0 +1,15 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+D:/CAD PROJECT/Full_adder/Full_adder.srcs/sources_1/new/Full_adder.sv,1706326037,systemVerilog,,D:/CAD PROJECT/Prefix_adder4bit/Prefix_adder4bit.srcs/sources_1/new/GP_block.sv,,Full_adder,,uvm,,,,,,
+D:/CAD PROJECT/Half_adder/Half_adder.srcs/sources_1/new/Half_adder.sv,1706884487,systemVerilog,,D:/CAD PROJECT/Prefix_adder4bit/Prefix_adder4bit.srcs/sources_1/new/Prefix_adder4bit.sv,,Half_adder,,uvm,,,,,,
+D:/CAD PROJECT/Prefix_adder4bit/Prefix_adder4bit.srcs/sources_1/new/GP_block.sv,1705250309,systemVerilog,,D:/CAD PROJECT/Half_adder/Half_adder.srcs/sources_1/new/Half_adder.sv,,GP_block,,uvm,,,,,,
+D:/CAD PROJECT/Prefix_adder4bit/Prefix_adder4bit.srcs/sources_1/new/Prefix_adder4bit.sv,1705655910,systemVerilog,,D:/CAD PROJECT/exact_compressor/exact_compressor.srcs/sources_1/new/exact_compressor.sv,,Prefix_adder4bit,,uvm,,,,,,
+D:/CAD PROJECT/Prefix_adder4bit/Prefix_adder4bit.srcs/sources_1/new/gen_prop.sv,1705668698,systemVerilog,,D:/CAD PROJECT/multiplier_compressor_better/multiplier_compressor_better.srcs/sources_1/new/multiplier_compressor_better.sv,,gen_prop,,uvm,,,,,,
+D:/CAD PROJECT/Prefix_adder4bit/Prefix_adder4bit.srcs/sources_1/new/sum_prefix.sv,1705251621,systemVerilog,,D:/CAD PROJECT/multiplier_compressor_better/multiplier_compressor_better.srcs/sim_1/new/multiplier_compressor_better_tb.sv,,sum_prefix,,uvm,,,,,,
+D:/CAD PROJECT/exact_compressor/exact_compressor.srcs/sources_1/new/exact_compressor.sv,1709396303,systemVerilog,,D:/CAD PROJECT/Prefix_adder4bit/Prefix_adder4bit.srcs/sources_1/new/gen_prop.sv,,exact_compressor,,uvm,,,,,,
+D:/CAD PROJECT/multiplier_compressor_better/multiplier_compressor_better.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,uvm,,,,,,
+D:/CAD PROJECT/multiplier_compressor_better/multiplier_compressor_better.srcs/sim_1/new/multiplier_compressor_better_tb.sv,1711110769,systemVerilog,,,,multiplier_compressor_better_tb,,uvm,,,,,,
+D:/CAD PROJECT/multiplier_compressor_better/multiplier_compressor_better.srcs/sources_1/new/multiplier_compressor_better.sv,1711161589,systemVerilog,,D:/CAD PROJECT/ripple_16/ripple_16.srcs/sources_1/new/ripple_16.sv,,multiplier_compressor_better,,uvm,,,,,,
+D:/CAD PROJECT/ripple_16/ripple_16.srcs/sources_1/new/ripple_16.sv,1707022627,systemVerilog,,D:/CAD PROJECT/Prefix_adder4bit/Prefix_adder4bit.srcs/sources_1/new/sum_prefix.sv,,ripple_16,,uvm,,,,,,

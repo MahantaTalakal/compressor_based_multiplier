@@ -1,0 +1,23 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../../Full_adder/Full_adder.srcs/sources_1/new/Full_adder.sv" \
+"../../../../../Half_adder/Half_adder.srcs/sources_1/new/Half_adder.sv" \
+"../../../../../prefix_32/prefix_32.srcs/sources_1/new/KSA_Stage1.sv" \
+"../../../../../prefix_32/prefix_32.srcs/sources_1/new/KSA_Stage2.sv" \
+"../../../../../prefix_32/prefix_32.srcs/sources_1/new/KSA_Stage3.sv" \
+"../../../../../prefix_32/prefix_32.srcs/sources_1/new/KSA_Stage4.sv" \
+"../../../../../prefix_32/prefix_32.srcs/sources_1/new/KSA_Stage5.sv" \
+"../../../../../prefix_32/prefix_32.srcs/sources_1/new/KSA_Stage6.sv" \
+"../../../../../prefix_32/prefix_32.srcs/sources_1/new/KSA_Stage7.sv" \
+"../../../../../prefix_32/prefix_32.srcs/sources_1/new/KSA_top_level.sv" \
+"../../../../../exact_compressor/exact_compressor.srcs/sources_1/new/exact_compressor.sv" \
+"../../../../../prefix_32/prefix_32.srcs/sources_1/new/gp1.sv" \
+"../../../../../prefix_32/prefix_32.srcs/sources_1/new/gp_window.sv" \
+"../../../../multiplier_compresssorConventional16.srcs/sources_1/new/multiplier_compresssorConventional16.sv" \
+"../../../../multiplier_compresssorConventional16.srcs/sim_1/new/multiplier_compresssorConventional16_tb.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

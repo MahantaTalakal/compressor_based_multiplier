@@ -1,0 +1,16 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Sat Oct 12 17:16:48 2024
+# Process ID: 19112
+# Current directory: D:/CAD PROJECT/multiplier_compressor_better
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent26288 D:\CAD PROJECT\multiplier_compressor_better\multiplier_compressor_better.xpr
+# Log file: D:/CAD PROJECT/multiplier_compressor_better/vivado.log
+# Journal file: D:/CAD PROJECT/multiplier_compressor_better\vivado.jou
+# Running On: DESKTOP-MII2473, OS: Windows, CPU Frequency: 2688 MHz, CPU Physical cores: 14, Host memory: 16849 MB
+#-----------------------------------------------------------
+start_gui
+open_project {D:/CAD PROJECT/multiplier_compressor_better/multiplier_compressor_better.xpr}
+update_compile_order -fileset sources_1

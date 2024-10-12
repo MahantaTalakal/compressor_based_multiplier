@@ -1,0 +1,25 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+D:/CAD PROJECT/Full_adder/Full_adder.srcs/sources_1/new/Full_adder.sv,1706326037,systemVerilog,,D:/CAD PROJECT/Half_adder/Half_adder.srcs/sources_1/new/Half_adder.sv,,Full_adder,,uvm,,,,,,
+D:/CAD PROJECT/Half_adder/Half_adder.srcs/sources_1/new/Half_adder.sv,1706884487,systemVerilog,,D:/CAD PROJECT/prefix_32/prefix_32.srcs/sources_1/new/KSA_Stage1.sv,,Half_adder,,uvm,,,,,,
+D:/CAD PROJECT/Prefix_adder32bit/Prefix_adder32bit.srcs/sources_1/new/Prefix_adder32bit.sv,1716869309,systemVerilog,,D:/CAD PROJECT/Prefix_adder4bit/Prefix_adder4bit.srcs/sources_1/new/Prefix_adder4bit.sv,,Prefix_adder32bit,,uvm,,,,,,
+D:/CAD PROJECT/Prefix_adder4bit/Prefix_adder4bit.srcs/sources_1/new/GP_block.sv,1705250309,systemVerilog,,D:/CAD PROJECT/Half_adder/Half_adder.srcs/sources_1/new/Half_adder.sv,,GP_block,,uvm,,,,,,
+D:/CAD PROJECT/Prefix_adder4bit/Prefix_adder4bit.srcs/sources_1/new/Prefix_adder4bit.sv,1705655910,systemVerilog,,D:/CAD PROJECT/exact_compressor/exact_compressor.srcs/sources_1/new/exact_compressor.sv,,Prefix_adder4bit,,uvm,,,,,,
+D:/CAD PROJECT/Prefix_adder4bit/Prefix_adder4bit.srcs/sources_1/new/gen_prop.sv,1705668698,systemVerilog,,D:/CAD PROJECT/multiplier_compresssorConventional16/multiplier_compresssorConventional16.srcs/sources_1/new/multiplier_compresssorConventional16.sv,,gen_prop,,uvm,,,,,,
+D:/CAD PROJECT/Prefix_adder4bit/Prefix_adder4bit.srcs/sources_1/new/sum_prefix.sv,1705251621,systemVerilog,,D:/CAD PROJECT/multiplier_compresssorConventional16/multiplier_compresssorConventional16.srcs/sim_1/new/multiplier_compresssorConventional16_tb.sv,,sum_prefix,,uvm,,,,,,
+D:/CAD PROJECT/exact_compressor/exact_compressor.srcs/sources_1/new/exact_compressor.sv,1709396303,systemVerilog,,D:/CAD PROJECT/prefix_32/prefix_32.srcs/sources_1/new/gp1.sv,,exact_compressor,,uvm,,,,,,
+D:/CAD PROJECT/multiplier_compresssorConventional16/multiplier_compresssorConventional16.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,uvm,,,,,,
+D:/CAD PROJECT/multiplier_compresssorConventional16/multiplier_compresssorConventional16.srcs/sim_1/new/multiplier_compresssorConventional16_tb.sv,1717072965,systemVerilog,,,,multiplier_compresssorConventional16_tb,,uvm,,,,,,
+D:/CAD PROJECT/multiplier_compresssorConventional16/multiplier_compresssorConventional16.srcs/sources_1/new/multiplier_compresssorConventional16.sv,1717493912,systemVerilog,,D:/CAD PROJECT/multiplier_compresssorConventional16/multiplier_compresssorConventional16.srcs/sim_1/new/multiplier_compresssorConventional16_tb.sv,,multiplier_compresssorConventional16,,uvm,,,,,,
+D:/CAD PROJECT/prefix_32/prefix_32.srcs/sources_1/new/KSA_Stage1.sv,1717478517,systemVerilog,,D:/CAD PROJECT/prefix_32/prefix_32.srcs/sources_1/new/KSA_Stage2.sv,,KSA_Stage1,,uvm,,,,,,
+D:/CAD PROJECT/prefix_32/prefix_32.srcs/sources_1/new/KSA_Stage2.sv,1717478528,systemVerilog,,D:/CAD PROJECT/prefix_32/prefix_32.srcs/sources_1/new/KSA_Stage3.sv,,KSA_Stage2,,uvm,,,,,,
+D:/CAD PROJECT/prefix_32/prefix_32.srcs/sources_1/new/KSA_Stage3.sv,1717478379,systemVerilog,,D:/CAD PROJECT/prefix_32/prefix_32.srcs/sources_1/new/KSA_Stage4.sv,,KSA_Stage3,,uvm,,,,,,
+D:/CAD PROJECT/prefix_32/prefix_32.srcs/sources_1/new/KSA_Stage4.sv,1717478540,systemVerilog,,D:/CAD PROJECT/prefix_32/prefix_32.srcs/sources_1/new/KSA_Stage5.sv,,KSA_Stage4,,uvm,,,,,,
+D:/CAD PROJECT/prefix_32/prefix_32.srcs/sources_1/new/KSA_Stage5.sv,1717478548,systemVerilog,,D:/CAD PROJECT/prefix_32/prefix_32.srcs/sources_1/new/KSA_Stage6.sv,,KSA_Stage5,,uvm,,,,,,
+D:/CAD PROJECT/prefix_32/prefix_32.srcs/sources_1/new/KSA_Stage6.sv,1717478563,systemVerilog,,D:/CAD PROJECT/prefix_32/prefix_32.srcs/sources_1/new/KSA_Stage7.sv,,KSA_Stage6,,uvm,,,,,,
+D:/CAD PROJECT/prefix_32/prefix_32.srcs/sources_1/new/KSA_Stage7.sv,1717478572,systemVerilog,,D:/CAD PROJECT/prefix_32/prefix_32.srcs/sources_1/new/KSA_top_level.sv,,KSA_Stage7,,uvm,,,,,,
+D:/CAD PROJECT/prefix_32/prefix_32.srcs/sources_1/new/KSA_top_level.sv,1717478920,systemVerilog,,D:/CAD PROJECT/exact_compressor/exact_compressor.srcs/sources_1/new/exact_compressor.sv,,KSA_top_level,,uvm,,,,,,
+D:/CAD PROJECT/prefix_32/prefix_32.srcs/sources_1/new/gp1.sv,1717478724,systemVerilog,,D:/CAD PROJECT/prefix_32/prefix_32.srcs/sources_1/new/gp_window.sv,,gp1,,uvm,,,,,,
+D:/CAD PROJECT/prefix_32/prefix_32.srcs/sources_1/new/gp_window.sv,1717478741,systemVerilog,,D:/CAD PROJECT/multiplier_compresssorConventional16/multiplier_compresssorConventional16.srcs/sources_1/new/multiplier_compresssorConventional16.sv,,gp_window,,uvm,,,,,,
